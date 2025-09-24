@@ -1,0 +1,58 @@
+Classification Report
+
+              precision    recall  f1-score   support
+
+        WEEK       1.00      0.62      0.76        13
+      RECITE       0.80      0.73      0.76        11
+  PHILOSOPHY       1.00      0.77      0.87        13
+       PIPE3       0.00      0.00      0.00        11
+    TEARRIP1       0.56      0.83      0.67        12
+         KEY       0.67      1.00      0.80        12
+         OUR       0.85      0.92      0.88        12
+       ANGEL       0.39      1.00      0.56        11
+  HALLOWEEN2       1.00      0.50      0.67         8
+   ADVERTISE       1.00      0.58      0.74        12
+    NONSENSE       1.00      0.58      0.74        12
+        BOAT       1.00      0.73      0.84        11
+     SNORKEL       1.00      0.75      0.86        12
+       NURSE       0.80      0.67      0.73        12
+       TRIM2       1.00      0.45      0.62        11
+      DEMOTE       1.00      1.00      1.00        12
+       BITCH       0.89      0.80      0.84        10
+    INTEREST       0.89      0.67      0.76        12
+         BOX       1.00      0.75      0.86        12
+   PUNCHFACE       0.73      0.67      0.70        12
+       WEAVE       1.00      0.42      0.59        12
+       IRON2       0.47      0.73      0.57        11
+   SHOULDER2       1.00      0.69      0.82        13
+  EARTHQUAKE       1.00      0.50      0.67        12
+       PIPE2       0.29      0.90      0.44        10
+      SHOULD       1.00      0.42      0.59        12
+      HEAVEN       0.65      1.00      0.79        13
+      STACK2       0.92      1.00      0.96        12
+       KITE2       1.00      0.91      0.95        11
+      FILTER       0.91      0.83      0.87        12
+   STOPWATCH       0.83      0.42      0.56        12
+       FOLD1       0.69      0.92      0.79        12
+         WET       1.00      0.77      0.87        13
+       FUNNY       0.80      0.67      0.73        12
+       BASIC       0.89      0.67      0.76        12
+      ACTION       0.82      0.64      0.72        14
+     BRIDGE2       0.40      0.77      0.53        13
+STETHOSCOPE1       0.69      0.92      0.79        12
+       REACT       0.92      0.92      0.92        13
+      GARAGE       0.44      0.54      0.48        13
+ FINGERSPELL       1.00      0.58      0.74        12
+      SHAKE2       0.67      1.00      0.80        12
+       STEAM       1.00      1.00      1.00        12
+        FAKE       0.67      0.83      0.74        12
+     DECIDE2       0.88      0.88      0.88         8
+         FOR       0.69      0.75      0.72        12
+        TOW1       0.53      0.83      0.65        12
+     BICYCLE       0.58      0.92      0.71        12
+      STORY2       0.90      0.75      0.82        12
+     PREDICT       0.80      0.36      0.50        11
+
+    accuracy                           0.73       590
+   macro avg       0.80      0.73      0.73       590
+weighted avg       0.80      0.73      0.73       590
